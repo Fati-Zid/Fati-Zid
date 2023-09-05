@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fati-Zid
 - 👀 I’m interested in Technologie and Programing
-- 🌱 I’m currently learning Laravel on Back-end
+- 🌱 I’m currently ALX Software Engenire student
 - 💞️ I’m looking to collaborate on oppen source project
 
 
