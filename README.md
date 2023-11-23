@@ -10,7 +10,8 @@ Hello! 👋 I'm Fatima Zohra, a programmer since 2019 and a current ALX student.
 
 ## Passion & Focus
 
-![image](https://github.com/Fati-Zid/Fati-Zid/assets/114442030/063dfbe8-1e5d-45c2-b7fd-e89ebd2e8439)
+![image](https://github.com/Fati-Zid/Fati-Zid/assets/114442030/ba64e2bc-2fad-4e30-ac73-024c6c09ff37)
+
 
 I'm fueled by a passion for problem-solving, constantly pushing boundaries to overcome challenges. My current focus is on mastering Python, C, Linux, and JavaScript, exploring frameworks to enhance my skill set.
 
