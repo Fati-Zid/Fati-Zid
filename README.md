@@ -22,4 +22,4 @@ Started with PHP and Laravel, building a strong foundation in web development. C
 
 ## Let's Connect!
 
-Open to connecting on [LinkedIn](https://www.linkedin.com/in/fatima-zohra-ezzaidani-436109214/) or [Twitter](https://twitter.com/EzzaidaniFatima). Let's collaborate and innovate together! 🚀
+Open to connecting on [LinkedIn](https://www.linkedin.com/in/fatima-zohra-ezzaidani-436109214/), [medium](https://medium.com/me/stories/public) or [Twitter](https://twitter.com/EzzaidaniFatima). Let's collaborate and innovate together! 🚀
