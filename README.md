@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm **Fatima Zohra Ezzaidani**
 
-### **Backend Developer — Node.js & TypeScript**
+### **Full-Stack Developer — Node.js & TypeScript & React**
 
 Building **scalable, tested, and maintainable backend systems**.
 
