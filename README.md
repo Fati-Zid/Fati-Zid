@@ -15,6 +15,7 @@ Building **scalable, tested, and maintainable backend systems**.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
 #### **Databases**
 
