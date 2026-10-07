@@ -2,7 +2,7 @@
 
 ### **Full-Stack Developer — Node.js & TypeScript & React**
 
-Building **scalable, tested, and maintainable backend systems**.
+Building **scalable, tested, and maintainable systems**.
 
 ---
 
