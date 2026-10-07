@@ -92,7 +92,7 @@ Building **scalable, tested, and maintainable backend systems**.
 
 ### 📫 Contact
 
-📧 **[f.ezzaidani@gmail.com](mailto:f.ezzaidani@gmail.com)**
+📧 **[ezzaidanifatimazohra@gmail.com](mailto:ezzaidanifatimazohra@gmail.com)**
 
 🌐 linkedin: *(https://www.linkedin.com/in/fatima-zohra-ezzaidani-436109214/)*
 
